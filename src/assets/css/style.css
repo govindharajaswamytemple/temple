@@ -733,3 +733,6 @@
     background: var(--bs-dark) !important;
 }
 /*** copyright end ***/
+body{
+    font-family: 'morione' !important;
+  }
